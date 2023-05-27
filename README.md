@@ -1,5 +1,5 @@
 # T-H-monitoring
-Uploading temperature and humidity to server via HTML POST method
+Uploading temperature and humidity to server via HTML GET method
 
 %%%%Hardware Information%%%%
 Sensor: ETH-01DV
