@@ -9,7 +9,7 @@ Wifi module: ESP-WROOM-32
 
 %%%% Data Flow %%%%
 Sensor --> Arduino --> Wifi module --> Server
-Arduino is here just for ADC because linearity of ESP32 ADC is much worse than that of arduino ADC.
+Arduino is here just for ADC because linearity of arduino ADC is much better than that of ESP32 ADC.
 If you use another ADC module, there is no need to use arduino
 %%%%%%%%%%%%%%%%%%%
 
